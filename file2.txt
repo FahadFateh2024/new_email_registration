@@ -1,1 +1,2 @@
 inside file2
+inside file2 for the second time
