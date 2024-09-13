@@ -1,2 +1,0 @@
- inside file1
- inside file1 for the second time
