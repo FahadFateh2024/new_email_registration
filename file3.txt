@@ -1,2 +1,4 @@
 inside file3
 inside file3 for the second time
+
+inside file3 for the third time
